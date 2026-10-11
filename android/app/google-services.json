@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "12888205709",
+    "project_id": "shift-squad-c-n-a-nurse-paks2e",
+    "storage_bucket": "shift-squad-c-n-a-nurse-paks2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12888205709:android:f10d5c51d87bcbc87b75c4",
+        "android_client_info": {
+          "package_name": "com.kazungudev.shiftsquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12888205709-6ql27jluilettojvt8la77dfoongi10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-JWcZqMXWT39PBirUmFyy16NtZLNRY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12888205709-6ql27jluilettojvt8la77dfoongi10h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12888205709-cebeo0de3t362b77edrr5339o7tu0nr2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.shiftsquad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
